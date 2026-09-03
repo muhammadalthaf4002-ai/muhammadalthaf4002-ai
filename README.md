@@ -1,7 +1,3 @@
-<!-- ============================== HERO BANNER ============================== -->
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Althaf%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20Software%20%26%20IoT%20Developer&descAlignY=62&descSize=16](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2FzAT7ty79yBNdBbVtNN5bxYj8ccvlzsIJ5F1uvLC2fxWG14HXwocHKg&s=10)" />
-  
   <!-- Add your image below -->
   <img src="[https://img.magnific.com/free-photo/cybersecurity-digital-security-concept_23-2151998498.jpg?semt=ais_hybrid&w=740&q=80](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2FzAT7ty79yBNdBbVtNN5bxYj8ccvlzsIJ5F1uvLC2fxWG14HXwocHKg&s=10)" />
 </p>
